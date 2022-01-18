@@ -1,0 +1,15 @@
+C:\Users\as\Desktop\.net\Workshop\Workshop\bin\Debug\net6.0\Workshop.exe
+C:\Users\as\Desktop\.net\Workshop\Workshop\bin\Debug\net6.0\Workshop.deps.json
+C:\Users\as\Desktop\.net\Workshop\Workshop\bin\Debug\net6.0\Workshop.runtimeconfig.json
+C:\Users\as\Desktop\.net\Workshop\Workshop\bin\Debug\net6.0\Workshop.dll
+C:\Users\as\Desktop\.net\Workshop\Workshop\bin\Debug\net6.0\ref\Workshop.dll
+C:\Users\as\Desktop\.net\Workshop\Workshop\bin\Debug\net6.0\Workshop.pdb
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\Workshop.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\Workshop.AssemblyInfoInputs.cache
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\Workshop.AssemblyInfo.cs
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\Workshop.dll
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\ref\Workshop.dll
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\Workshop.pdb
+C:\Users\as\Desktop\.net\Workshop\Workshop\obj\Debug\net6.0\Workshop.genruntimeconfig.cache
